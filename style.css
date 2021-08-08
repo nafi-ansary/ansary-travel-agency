@@ -1,3 +1,12 @@
 .carousel-inner .carousel-item img{
     height: 400px;
 }
+.card .img-class{
+    height: 300px;
+}
+.card .images{
+    height: 400px;
+}
+footer{
+    text-align: center;
+}
